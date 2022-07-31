@@ -1048,3 +1048,11 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* Portfolio */
+
+#portfolio .card {
+  margin: auto;
+  margin-bottom: 40px;
+  padding: 0px 0px;
+}
